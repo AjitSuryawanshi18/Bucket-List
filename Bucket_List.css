@@ -1,0 +1,72 @@
+.navbar{
+            height: 15vh;
+            background-color: aqua; 
+            border-radius: 15px;
+        }
+         .todo{
+            display: flex;
+           margin-left: 43vw;
+           font-family: cursive;
+        }
+        .topic{
+        margin-left: 35vw;
+        font-size:larger;
+       
+     }
+     
+        .desc_abc{
+        margin-left: 35vw;
+        font-size: larger;
+        
+     }
+    #mrgnlist{
+        margin-top: 3vh;
+     }
+     
+     #addlist{
+        margin-left: 32vw;
+        margin-top: 2vh;
+     }
+     #Delete{
+        margin-left: 2vw;
+        margin-top: 2vh;
+     }
+     .background{
+        background-color: darkcyan;
+        border-radius: 20px;
+      }
+      #todo{
+
+        margin-top: 5vh;
+      }
+      .card{
+        background-color:lawngreen;
+        width: 30vw;
+        padding-left: 0.5vw;
+        margin: 2vh 2vw;
+      }
+   #checkbox{
+    margin-left: 27vw;
+    margin-block-end: 1.5vw;
+    /* margin-top: 0.5vh; */
+   }
+   #headline{
+    margin-bottom: 2vh;
+    margin-top: 2vh;
+    display: flex;
+    flex-direction: row;
+   
+   }
+   #error1{
+    color: red;
+    font-size: 20px;
+    font-weight: 400;
+}
+#error2{
+    color: red;
+    font-size: 20px;
+    font-weight: 400;
+   }
+#empty{
+    color: red;
+}    
